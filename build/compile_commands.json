@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zzy/noise_detect/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -I/usr/local/include/eigen3 -g -std=gnu++1z -o CMakeFiles/OutlierDetection.dir/main.cpp.o -c /home/zzy/noise_detect/main.cpp",
+  "file": "/home/zzy/noise_detect/main.cpp"
+}
+]

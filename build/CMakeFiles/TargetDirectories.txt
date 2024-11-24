@@ -1,0 +1,3 @@
+/home/zzy/noise_detect/build/CMakeFiles/OutlierDetection.dir
+/home/zzy/noise_detect/build/CMakeFiles/edit_cache.dir
+/home/zzy/noise_detect/build/CMakeFiles/rebuild_cache.dir
